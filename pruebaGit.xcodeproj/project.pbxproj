@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					9E3EA20E1E57A95E00290B42 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = Z242R9UK5Y;
 						ProvisioningStyle = Automatic;
 					};
 					9E3EA2221E57A95F00290B42 = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Z242R9UK5Y;
 				INFOPLIST_FILE = pruebaGit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ceca.pruebaGit;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Z242R9UK5Y;
 				INFOPLIST_FILE = pruebaGit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ceca.pruebaGit;
